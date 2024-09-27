@@ -1,0 +1,5 @@
+project_id = "<your-project_id>"
+region = "<your-region>"
+postgres_username = "<postgres_username>"
+postgres_password = "<postgres_password>"
+postgres_root_password = "<postgres_root_password>"

@@ -1,0 +1,14 @@
+amazon-books-etl-056cf57c2b5d.json
+amazon-books-etl-e278da8b9047.json
+.env
+dags/dagForMe.py
+my_venv
+terraform/terraform.tfvars
+terraform/terraform.tfstate
+terraform/.terraform
+terraform/terraform.tfstate.backup
+terraform/.terraform.lock.hcl
+terraform/graph*
+IMG-20240927-WA000*.jpg
+image.png
+AmazonBookScraper.drawio
