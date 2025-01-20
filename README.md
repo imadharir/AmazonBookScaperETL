@@ -44,7 +44,7 @@ The project follows a simple ETL (Extract, Transform, Load) architecture:
 - **Google Cloud Composer:** Manages the Airflow environment on Google Cloud.
 - **Terraform:** Automates the infrastructure setup.
 
-## [Setup and Installation](installation.md#installation-guide)
+## [Setup and Installation](INSTALLATION.md#installation-guide)
 ## Usage
 - The project runs on a daily basis, ensuring the database is updated with new book entries.
 - Can be used for trend analysis, pricing insights, or recommendation systems.
